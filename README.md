@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Abhishek Singh
+# Hi there 👋 I'm Abhishek 
 
 🎓 CSE Undergrad | 
 🚀 Building React projects, Java apps, and exploring Backend Engineering & LLMs  
