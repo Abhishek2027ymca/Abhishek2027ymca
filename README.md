@@ -1,3 +1,5 @@
+🌟 About Me
+
 - 🚀 Passionate about building scalable, high-performance full-stack applications  
 - 🔧 Building backend systems using Node.js, Express, and MongoDB  
 - 🌐 Developing complete MERN stack applications  
