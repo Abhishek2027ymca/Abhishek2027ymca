@@ -1,5 +1,16 @@
 # 💫 About Me:
-I’m currently working on<br><br>Building backend projects using Node.js & Express<br><br>Developing complete Full-Stack applications (MERN stack)<br><br>Improving API design & database structuring<br><br>👯 I’m looking to collaborate on<br><br>Complete Full-Stack (MERN) projects<br><br>Open-source backend systems<br><br>Scalable web applications
+🔭 I’m currently working on Building backend projects using Node.js & Express<br>
+🔭 I’m currently working on Developing complete Full-Stack applications (MERN stack)<br>
+🔭 I’m currently working on Improving API design & database structuring<br>
+
+👯 I’m looking to collaborate on Complete Full-Stack (MERN) projects<br>
+👯 I’m looking to collaborate on Open-source backend systems<br>
+👯 I’m looking to collaborate on Scalable web applications<br>
+
+🌱 I’m currently learning DevOps fundamentals (Docker, CI/CD, deployment)<br>
+🌱 I’m currently learning Backend optimization & performance tuning<br>
+🌱 I’m currently learning Clean architecture patterns<br>
+
 
 
 ## 🌐 Socials:
