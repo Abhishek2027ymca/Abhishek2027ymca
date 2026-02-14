@@ -21,7 +21,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek2027ymca&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-## Profile Views
-(https://visitcount.itsvg.in/api?id=Abhishek2027ymca&label=Profile%20Views&color=0e75b6&icon=0&pretty=true)
+##  Profile Views
+![Profile Views](https://visitcount.itsvg.in/api?id=Abhishek2027ymca&label=Profile%20Views&color=0e75b6&icon=0&pretty=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
