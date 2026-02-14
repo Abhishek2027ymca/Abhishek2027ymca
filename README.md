@@ -22,6 +22,6 @@
 
 
 ## Profile Views
-![Profile Views](https://visitcount.itsvg.in/api?id=Abhishek2027ymca&label=Profile%20Views&color=0e75b6&icon=0&pretty=true)
+(https://visitcount.itsvg.in/api?id=Abhishek2027ymca&label=Profile%20Views&color=0e75b6&icon=0&pretty=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
