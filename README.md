@@ -22,6 +22,5 @@
 
 
 ## 👀 Profile Views
-![Profile Views](https://visitcount.itsvg.in/api?id=Abhishek2027ymca)
-
+![Profile Views](https://komarev.com/ghpvc/?username=Abhishek2027ymca&color=blueviolet&style=flat-square&label=Profile+Views)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
